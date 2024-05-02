@@ -1,4 +1,21 @@
 .img-logo{
     display: flex;
     justify-content: end;
+    height: 330px;
+    font-size: 200%;
+}
+.textos{
+    max-width: 250px;
+    font-size: 150%;
+}
+.inicio{
+    display: flex;
+    justify-content: start;
+    font-size: 300%;
+}
+ul{
+    font-size: 150%;
+}
+body{
+    background-image: linear-gradient(#008000,#adff2f);
 }
