@@ -3,9 +3,11 @@
     justify-content: end;
     height: 330px;
     font-size: 200%;
+    max-width: 100%;
+
 }
 .textos{
-    max-width: 250px;
+    max-width: 200px;
     font-size: 150%;
 }
 .inicio{
@@ -17,5 +19,20 @@ ul{
     font-size: 150%;
 }
 body{
-    background-image: linear-gradient(#008000,#adff2f);
+    background-image: linear-gradient(#228B22,#00FA9A);
+    padding: 40px;
+}
+.fundadores{
+    width: 150px;
+}
+.fund-texto{
+    font-size:180%;
+}
+.vant-bene{
+    font-size: 200%;
+}
+.palitos{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
 }
